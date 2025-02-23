@@ -4,27 +4,13 @@
 
 Welcome to the Virtual Classroom System 🎓! This is a full-fledged online classroom management system built using ASP.NET and SQL Server. It provides a seamless experience for students and teachers to interact, manage courses, and conduct online learning sessions.
 
-🚀 Features
-
-✅ User authentication (Students, Teachers, Admins) 
-🔐✅ Interactive dashboards 
-📊✅ Course management (Create, update, delete courses) 
-📚✅ Live virtual classes integration 
-🎥✅ Assignments & quizzes
-📜✅ Discussion forums 
-💬✅ Attendance tracking 
-📅✅ Secure database management using SQL Server 
-🛢️✅ Beautiful & responsive UI 💻📱
-
 🛠️ Technologies Used
 
 ASP.NET (Back-end) 🏗️
-
+C#
 SQL Server (Database) 🗄️
 
-HTML, CSS, JavaScript (Front-end) 🎨
-
-Bootstrap (Responsive Design) 📱
+HTML, CSS (Front-end) 🎨
 
 📂 Installation Guide
 
