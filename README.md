@@ -6,7 +6,15 @@ Welcome to the Virtual Classroom System 🎓! This is a full-fledged online clas
 
 🚀 Features
 
-✅ User authentication (Students, Teachers, Admins) 🔐✅ Interactive dashboards 📊✅ Course management (Create, update, delete courses) 📚✅ Live virtual classes integration 🎥✅ Assignments & quizzes 📜✅ Discussion forums 💬✅ Attendance tracking 📅✅ Secure database management using SQL Server 🛢️✅ Beautiful & responsive UI 💻📱
+✅ User authentication (Students, Teachers, Admins) 
+🔐✅ Interactive dashboards 
+📊✅ Course management (Create, update, delete courses) 
+📚✅ Live virtual classes integration 
+🎥✅ Assignments & quizzes
+📜✅ Discussion forums 
+💬✅ Attendance tracking 
+📅✅ Secure database management using SQL Server 
+🛢️✅ Beautiful & responsive UI 💻📱
 
 🛠️ Technologies Used
 
@@ -24,7 +32,7 @@ Follow these steps to set up the system on your local machine:
 
 Clone the Repository 🖥️
 
- git clone https://github.com/yourusername/virtual-classroom-system.git
+ git clone https://github.com/Zack-daahir13/Virtual-Classroom-ASP.net.git
 
 Open the Project in Visual Studio 🎯
 
@@ -48,7 +56,7 @@ For any inquiries or contributions, feel free to reach out:
 
 📧 Email: zackdaahir909@gmail.com
 
-🌍 GitHub: https://github.com/zackdaahir
+🌍 GitHub: https://github.com/Zackdaahir13
 
 🚀 Enjoy coding and happy learning! 🎓🔥
 
