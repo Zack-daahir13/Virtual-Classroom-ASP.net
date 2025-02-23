@@ -56,7 +56,7 @@ For any inquiries or contributions, feel free to reach out:
 
 📧 Email: zackdaahir909@gmail.com
 
-🌍 GitHub: https://github.com/Zackdaahir13
+🌍 GitHub: https://github.com/Zac-kdaahir13
 
 🚀 Enjoy coding and happy learning! 🎓🔥
 
